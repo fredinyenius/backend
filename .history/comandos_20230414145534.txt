@@ -1,0 +1,2 @@
+python -m venv entorno_django               > para crear entorno virtual
+django-admin startproject electromotriz     > para crear un proyecto con django
